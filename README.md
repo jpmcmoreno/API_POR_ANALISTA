@@ -1,0 +1,1 @@
+# API_POR_ANALISTA
