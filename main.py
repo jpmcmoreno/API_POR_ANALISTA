@@ -75,4 +75,12 @@ def crawl(
     # Enriquecer fechas null
     resultados = enrich_dates(resultados)
 
-    return JSONResponse(content=resultados)
+    # Deduplicar por link
+    vistos = set()
+    unicos = []
+    for item in resultados:
+        if item["link"] not in vistos:
+            vistos.add(item["link"])
+            unicos.append(item)
+
+    return JSONResponse(content=unicos)
