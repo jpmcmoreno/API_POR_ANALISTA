@@ -1,14 +1,144 @@
 {
-  "El_Caribe": [
-    "https://www.elcaribe.com.do/seccion/panorama/justicia/",
-    "https://www.elcaribe.com.do/seccion/panorama/politica/"
-  ],
-  "Ojo_Publico": [
-    "https://ojo-publico.com/sala-del-poder",
-    "https://ojo-publico.com/derechos-humanos"
-  ],
-  "OCCRP": [
-    "https://www.occrp.org/en/news/page/1",
-    "https://www.occrp.org/en/investigations/page/1"
-  ]
-}
+
+
+        "El_Caribe": [
+            "https://www.elcaribe.com.do/seccion/panorama/justicia/",
+            "https://www.elcaribe.com.do/seccion/panorama/region-norte/",
+            "https://www.elcaribe.com.do/seccion/panorama/politica/",
+            "https://www.elcaribe.com.do/seccion/panorama/pais/"
+        ],
+
+        "Ojo_Publico": [
+            "https://ojo-publico.com/sala-del-poder",
+            "https://ojo-publico.com/derechos-humanos",
+            "https://ojo-publico.com/politica"
+        ],
+
+	"Europa_Press": [
+            "https://www.europapress.es/nacional/",
+            "https://www.europapress.es/internacional/"
+        ],
+
+        "La_pagina": [
+            "https://lapagina.com.sv/seccion/nacionales/",
+            "https://lapagina.com.sv/seccion/internacionales/"
+        ],
+
+        "EL_MUNDO": [
+            "https://diario.elmundo.sv/nacionales",
+            "https://diario.elmundo.sv/politica",
+            "https://diario.elmundo.sv/el-mundo"
+        ],
+
+        "Proceso": [
+            "https://www.proceso.com.mx/nacional/estados/",
+            "https://www.proceso.com.mx/nacional/politica/",
+            "https://www.proceso.com.mx/nacional/justicia/"
+        ],
+
+
+    	"CLARION_LEDGER":[
+	    "https://www.clarionledger.com/news/"
+	],
+
+    	"OCCRP":[
+	    "https://www.occrp.org/en/news/page/1",
+	    "https://www.occrp.org/en/investigations/page/1"
+	],
+
+    	"OK_DIARIO":[
+	    "https://okdiario.com/espana/",
+	    "https://okdiario.com/espana/2/",
+	    "https://okdiario.com/espana/3/"
+	],
+
+    	"T13":[
+	    "https://www.t13.cl/lo-ultimo",
+	],
+
+    	"THE_NATIONAL":[
+	    "https://www.thenationalnews.com/news/",
+	],
+
+    	"NOTICIA_AL_DIA":[
+	    "https://noticialdia.com/secciones/sucesos/",
+	    "https://noticialdia.com/secciones/internacionales/",
+	    "https://noticialdia.com/secciones/zulia/"
+	],
+
+    	"EL_MUNDO_CR":[
+	    "https://elmundo.cr/costa-rica/",
+	    "https://elmundo.cr/mundo/"
+	],
+
+    	"EL_ORIENTAL_DE_MONAGAS":[
+	    "https://elorientaldemonagas.com/sucesos/",
+	    "https://elorientaldemonagas.com/internacional/"
+	],
+
+    	"EMISORAS_UNIDAS":[
+	    "https://emisorasunidas.com/category/nacional/",
+	    "https://emisorasunidas.com/category/internacionales/"
+	],
+
+    	"DIARIO_DEL_SUR":[
+	    "https://www.diariodelsur.com.co/seccion/judicial/"
+	],
+
+
+    	"EL_GUARDIAN":[
+	    "https://elguardian.cr/nacionales/",
+	    "https://elguardian.cr/mundo/"
+	],
+
+
+    	"DIARO_DE_CUBA":[
+	    "https://diariodecuba.com/cuba",
+	    "https://diariodecuba.com/derechos-humanos"
+	],
+
+
+    	"AGENCIA_EFE":[
+	    "https://efe.com/espana/",
+	    "https://efe.com/espana/page/2/",
+	    "https://efe.com/espana/page/3/",
+	    "https://efe.com/espana/page/4/",
+	    "https://efe.com/espana/page/5/",
+	    "https://efe.com/mundo/",
+	    "https://efe.com/mundo/page/2/",
+	    "https://efe.com/mundo/page/3/",
+	    "https://efe.com/mundo/page/4/",
+	    "https://efe.com/mundo/page/5/",
+	],
+
+    	"EL_CIUDADANO":[
+	    "https://www.elciudadano.com/justicia/"
+	],
+
+
+    	"ZONA_CERO":[
+	    "https://zonacero.com/judiciales",
+	    "https://zonacero.com/politica",
+	    "https://zonacero.com/generales",
+	    "https://zonacero.com/mundo"
+	],
+
+    	"NOTIFALCON":[
+	    "https://notifalcon.com/sucesos/",
+	    "https://notifalcon.com/internacionales/"
+	],
+
+    	"PUBLIMETRO":[
+	    "https://www.metroworldnews.com/noticias/"
+	],
+
+    	"DIARIO_CHASKI":[
+	    "https://chaski.pe/noticias/local"
+	],
+
+    	"EL_PERFIL":[
+	    "https://chaski.pe/noticias/local"
+	]
+
+        
+    }
