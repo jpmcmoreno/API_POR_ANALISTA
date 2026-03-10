@@ -1,36 +1,35 @@
 {
 
-
-        "El_Caribe": [
+        "El_Caribe":[
             "https://www.elcaribe.com.do/seccion/panorama/justicia/",
             "https://www.elcaribe.com.do/seccion/panorama/region-norte/",
             "https://www.elcaribe.com.do/seccion/panorama/politica/",
             "https://www.elcaribe.com.do/seccion/panorama/pais/"
         ],
 
-        "Ojo_Publico": [
+        "Ojo_Publico":[
             "https://ojo-publico.com/sala-del-poder",
             "https://ojo-publico.com/derechos-humanos",
             "https://ojo-publico.com/politica"
         ],
 
-	"Europa_Press": [
+	"Europa_Press":[
             "https://www.europapress.es/nacional/",
             "https://www.europapress.es/internacional/"
         ],
 
-        "La_pagina": [
+        "La_pagina":[
             "https://lapagina.com.sv/seccion/nacionales/",
             "https://lapagina.com.sv/seccion/internacionales/"
         ],
 
-        "EL_MUNDO": [
+        "EL_MUNDO":[
             "https://diario.elmundo.sv/nacionales",
             "https://diario.elmundo.sv/politica",
             "https://diario.elmundo.sv/el-mundo"
         ],
 
-        "Proceso": [
+        "Proceso":[
             "https://www.proceso.com.mx/nacional/estados/",
             "https://www.proceso.com.mx/nacional/politica/",
             "https://www.proceso.com.mx/nacional/justicia/"
@@ -52,9 +51,6 @@
 	    "https://okdiario.com/espana/3/"
 	],
 
-    	"T13":[
-	    "https://www.t13.cl/lo-ultimo",
-	],
 
     	"THE_NATIONAL":[
 	    "https://www.thenationalnews.com/news/",
@@ -102,13 +98,9 @@
 	    "https://efe.com/espana/",
 	    "https://efe.com/espana/page/2/",
 	    "https://efe.com/espana/page/3/",
-	    "https://efe.com/espana/page/4/",
-	    "https://efe.com/espana/page/5/",
 	    "https://efe.com/mundo/",
 	    "https://efe.com/mundo/page/2/",
-	    "https://efe.com/mundo/page/3/",
-	    "https://efe.com/mundo/page/4/",
-	    "https://efe.com/mundo/page/5/",
+	    "https://efe.com/mundo/page/3/"
 	],
 
     	"EL_CIUDADANO":[
@@ -141,4 +133,4 @@
 	]
 
         
-    }
+}
