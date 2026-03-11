@@ -1,0 +1,84 @@
+{
+  "PREGON": [
+    "https://www.pregon.com.pe",
+    "https://www.pregon.com.pe/index.php/judiciales"
+  ],
+  "DIARIO LA LIBERTAD": [
+    "https://diariolalibertad.com"
+  ],
+  "EL NACIONAL": [
+    "https://elnacional.com.do",
+    "https://elnacional.com.do/seccion/nacionales",
+    "https://elnacional.com.do/seccion/judiciales"
+  ],
+  "LA HORA": [
+    "https://lahora.gt",
+    "https://lahora.gt/nacionales",
+    "https://lahora.gt/internacionales"
+  ],
+  "RPP NOTICIAS": [
+    "https://rpp.pe"
+  ],
+  "EL SALVADOR TIMES": [
+    "https://www.elsalvadortimes.com",
+    "https://www.elsalvadortimes.com/seccion/judiciales"
+  ],
+  "T13": [
+    "https://www.t13.cl/nacional",
+    "https://www.t13.cl/local",
+    "https://www.t13.cl/noticias",
+    "https://www.t13.cl/politica"
+  ],
+  "DIARIO CORREO": [
+    "https://diariocorreo.pe/edicion/lima",
+    "https://diariocorreo.pe/edicion/ancash",
+    "https://diariocorreo.pe/edicion/arequipa",
+    "https://diariocorreo.pe/edicion/ayacucho",
+    "https://diariocorreo.pe/edicion/cajamarca",
+    "https://diariocorreo.pe/edicion/chimbote",
+    "https://diariocorreo.pe/edicion/cusco",
+    "https://diariocorreo.pe/edicion/huancavelica",
+    "https://diariocorreo.pe/edicion/huancayo",
+    "https://diariocorreo.pe/edicion/huanuco",
+    "https://diariocorreo.pe/edicion/ica",
+    "https://diariocorreo.pe/edicion/la-libertad",
+    "https://diariocorreo.pe/edicion/lambayeque",
+    "https://diariocorreo.pe/edicion/loreto",
+    "https://diariocorreo.pe/edicion/piura",
+    "https://diariocorreo.pe/edicion/puno",
+    "https://diariocorreo.pe/edicion/tumbes"
+  ],
+  "CHIMBOTE EN LINEA": [
+    "https://www.chimbotenlinea.com",
+    "https://www.chimbotenlinea.com/judiciales",
+    "https://www.chimbotenlinea.com/policiales"
+  ],
+  "CRONICA": [
+    "https://www.cronica.com.py",
+    "https://www.cronica.com.py/nacionales",
+    "https://www.cronica.com.py/judiciales"
+  ],
+  "DIARIO AHORA": [
+    "https://ahora.com.pe",
+    "https://ahora.com.pe/seccion/judiciales"
+  ],
+  "CAMPO GRANDE NEWS": [
+    "https://www.campograndenews.com.br"
+  ],
+  "EL CARABOBEÑO": [
+    "https://www.el-carabobeno.com",
+    "https://www.el-carabobeno.com/seccion/nacionales",
+    "https://www.el-carabobeno.com/seccion/judiciales"
+  ],
+  "EL UNIVERSAL": [
+    "https://www.eluniversal.com",
+    "https://www.eluniversal.com/judicial"
+  ],
+  "KOIN": [
+    "https://www.koin.com",
+    "https://www.koin.com/news/local"
+  ],
+  "PUBLIMETRO": [
+    "https://www.publimetro.cl"
+  ]
+}
