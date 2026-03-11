@@ -1,0 +1,121 @@
+{
+  "CBS NEWS": [
+    "https://www.cbsnews.com/newyork/tag/legal-notices/",
+    "https://www.cbsnews.com/news/israel-hamas-war-iran-israel-strikes-latest-news/",
+    "https://www.cbsnews.com/world/",
+    "https://www.cbsnews.com/politics/",
+    "https://www.cbsnews.com/moneywatch/",
+    "https://www.cbsnews.com/crime/",
+    "https://www.cbsnews.com/cbs-news-pittsburgh/"
+  ],
+  "REGISTRO MERCANTIL": [
+    "https://edictos.registromercantil.gob.gt/",
+    "https://registromercantil.gob.gt/publicaciones-varias/",
+    "https://registromercantil.gob.gt/asambleas-y-otros/"
+  ],
+  "RADIO ONDA AZUL": [
+    "https://radioondaazul.com/",
+    "https://radioondaazul.com/noticias/",
+    "https://radioondaazul.com/noticias/locales/",
+    "https://radioondaazul.com/noticias/regionales/",
+    "https://radioondaazul.com/noticias/internacionales/",
+    "https://radioondaazul.com/noticias/nacionales/",
+    "https://radioondaazul.com/noticias/judiciales/"
+  ],
+  "DIARIO DE CHIMBOTE": [
+    "https://www.diariodechimbote.com/",
+    "https://www.diariodechimbote.com/seccion/noticias-locales/",
+    "https://www.diariodechimbote.com/seccion/judiciales/"
+  ],
+  "EXITOSA NOTICIAS": [
+    "https://www.exitosanoticias.pe/regionales",
+    "https://www.exitosanoticias.pe/ultimas-noticias",
+    "https://www.exitosanoticias.pe/actualidad",
+    "https://www.exitosanoticias.pe/politica",
+    "https://www.exitosanoticias.pe/locales",
+    "https://www.exitosanoticias.pe/judicial",
+    "https://www.exitosanoticias.pe/exclusivos"
+  ],
+  "NOTICIAS PIURA": [
+    "https://noticiaspiura30.pe/",
+    "https://noticiaspiura30.pe/seccion/locales/",
+    "https://noticiaspiura30.pe/seccion/regionales/",
+    "https://noticiaspiura30.pe/seccion/judiciales/"
+  ],
+  "PACHAMAMA": [
+    "https://pachamamaradio.org/",
+    "https://pachamamaradio.org/locales/",
+    "https://pachamamaradio.org/nacionales/",
+    "https://pachamamaradio.org/actualidad/",
+    "https://pachamamaradio.org/internacional/"
+  ],
+  "PRENSA REGIONAL": [
+    "https://prensaregional.pe/",
+    "https://prensaregional.pe/ultimas-noticias/",
+    "https://prensaregional.pe/category/peru-sur/moguegua/",
+    "https://prensaregional.pe/category/peru-sur/ilo/"
+  ],
+  "PRIMICIA": [
+    "https://diarioprimicia.com.pe/",
+    "https://diarioprimicia.com.pe/category/locales/",
+    "https://diarioprimicia.com.pe/category/regionales/",
+    "https://diarioprimicia.com.pe/category/nacionales/",
+    "https://diarioprimicia.com.pe/category/judiciales/",
+    "https://diarioprimicia.com.pe/category/politica/",
+    "https://diarioprimicia.com.pe/category/avisos-y-publicaciones/",
+    "https://diarioprimicia.com.pe/category/avisos-y-publicaciones/edictos-judiciales/",
+    "https://diarioprimicia.com.pe/category/avisos-y-publicaciones/edictos-clasificados/",
+    "https://diarioprimicia.com.pe/category/avisos-y-publicaciones/otros/"
+  ],
+  "EUROPA PRESS": [
+    "https://www.europapress.es/",
+    "https://www.europapress.es/economia/",
+    "https://www.europapress.es/internacional/",
+    "https://www.europapress.es/economia/macroeconomia/"
+  ],
+  "BUHO": [
+    "https://elbuho.pe/tema/moquegua/",
+    "https://elbuho.pe/seccion/noticias/",
+    "https://elbuho.pe/seccion/destacado/",
+    "https://elbuho.pe/seccion/ciudad/"
+  ],
+  "CORREIO DA MANHÃ": [
+    "https://www.cmjornal.pt/",
+    "https://www.cmjornal.pt/exclusivos",
+    "https://www.cmjornal.pt/portugal",
+    "https://www.cmjornal.pt/economia",
+    "https://www.cmjornal.pt/politica",
+    "https://www.cmjornal.pt/mundo",
+    "https://www.cmjornal.pt/mais-cm",
+    "https://www.cmjornal.pt/mais-cm/domingo"
+  ],
+  "ARABNEWS": [
+    "https://www.arabnews.com/middle-east",
+    "https://www.arabnews.com/saudi-arabia",
+    "https://www.arabnews.com/middle-east/gaza-conflict",
+    "https://www.arabnews.com/world",
+    "https://www.arabnews.com/economy"
+  ],
+  "NOTICIAS TRUJILLO": [
+    "https://noticiastrujillo.pe/",
+    "https://noticiastrujillo.pe/category/locales/",
+    "https://noticiastrujillo.pe/category/judiciales/",
+    "https://noticiastrujillo.pe/category/locales/provinciales/"
+  ],
+  "JORNADA": [
+    "https://jornada.com.pe/",
+    "https://jornada.com.pe/locales/",
+    "https://jornada.com.pe/regionales/",
+    "https://jornada.com.pe/nacional/politica/",
+    "https://jornada.com.pe/editorial/",
+    "https://jornada.com.pe/judiciales/"
+  ],
+  "LA PRIMERA": [
+    "https://laprimera.pe/",
+    "https://laprimera.pe/inicio",
+    "https://laprimera.pe/seccion/politica/",
+    "https://laprimera.pe/seccion/regionales/",
+    "https://laprimera.pe/seccion/semanario/informe-especial/",
+    "https://laprimera.pe/seccion/economia/"
+  ]
+}
