@@ -1,0 +1,104 @@
+{
+  "INFOBAE": [
+    "https://www.infobae.com/?noredirect",
+    "https://www.infobae.com/ultimas-noticias/",
+    "https://www.infobae.com/colombia/",
+    "https://www.infobae.com/tag/colombia-noticias/",
+    "https://www.infobae.com/espana/",
+    "https://www.infobae.com/tag/espana-noticias/",
+    "https://www.infobae.com/mexico/",
+    "https://www.infobae.com/tag/narcotrafico/",
+    "https://www.infobae.com/peru/",
+    "https://www.infobae.com/peru/ultimas-noticias/",
+    "https://www.infobae.com/centroamerica/",
+    "https://www.infobae.com/america/",
+    "https://www.infobae.com/estados-unidos/"
+  ],
+  "EL LIBERAL": [
+    "https://www.elliberal.com.ar/policiales",
+    "https://www.elliberal.com.ar/politica",
+    "https://www.elliberal.com.ar/mundo"
+  ],
+  "EL REGIONAL DEL ZULIA": [
+    "https://elregionaldelzulia.com/category/sucesos/",
+    "https://elregionaldelzulia.com/category/nacionales/"
+  ],
+  "EXTRA": [
+    "https://www.extra.com.pe/ultimas-noticias/"
+  ],
+  "TN": [
+    "https://tn.com.ar/ultimas-noticias/",
+    "https://tn.com.ar/internacional/",
+    "https://tn.com.ar/policiales/",
+    "https://tn.com.ar/politica/"
+  ],
+  "ULTIMAS NOTICIAS": [
+    "https://ultimasnoticias.com.ve/seccion/sucesos/",
+    "https://ultimasnoticias.com.ve/seccion/politica/",
+    "https://ultimasnoticias.com.ve/seccion/nacionales/"
+  ],
+  "UOL": [
+    "https://noticias.uol.com.br/",
+    "https://noticias.uol.com.br/internacional/"
+  ],
+  "CND": [
+    "https://cnd.com.do/noticias/nacionales/",
+    "https://cnd.com.do/noticias/nacional-judicial/"
+  ],
+  "FISCALIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO": [
+    "https://fgjmx.gob.mx:5688/sis/noticias"
+  ],
+  "EL ECONOMISTA": [
+    "https://www.eleconomista.com.mx/ultimas-noticias",
+    "https://www.eleconomista.com.mx/seccion/politica/",
+    "https://www.eleconomista.com.mx/mexico/"
+  ],
+  "LA NACION": [
+    "https://www.lanacion.cl/internacional/",
+    "https://www.lanacion.cl/nacional/",
+    "https://www.lanacion.cl/politica/"
+  ],
+  "LA PRENSA DE MONAGAS": [
+    "https://laprensademonagas.com/category/sucesos/",
+    "https://laprensademonagas.com/category/politica/",
+    "https://laprensademonagas.com/category/nacionales/"
+  ],
+  "DIARIO VOCES": [
+    "https://diariovoces.com.pe/category/policial/",
+    "https://diariovoces.com.pe/category/judiciales/",
+    "https://diariovoces.com.pe/category/politica/",
+    "https://diariovoces.com.pe/category/regionales/"
+  ],
+  "AMBITO FINANCIERO": [
+    "https://www.ambito.com/ultimas-noticias"
+  ],
+  "DIA A DIA": [
+    "https://www.diaadia.com.pa/policiales",
+    "https://www.diaadia.com.pa/el-pais"
+  ],
+  "EL SIGLO": [
+    "https://elsiglo.com.pa/cronica-roja"
+  ],
+  "EL UNIVERSAL": [
+    "https://www.eluniversal.com.mx/nacion"
+  ],
+  "EMOL CHILE": [
+    "https://www.emol.com/nacional"
+  ],
+  "LA GUAJIRA HOY": [
+    "https://laguajirahoy.com/seccion/judicial"
+  ],
+  "MI DIARIO": [
+    "https://www.midiario.com/policiales",
+    "https://www.midiario.com/nacionales"
+  ],
+  "PRENSA REGIONAL HUARAZ": [
+    "https://prensahuaraz.com.pe/index.php/judiciales/",
+    "https://prensahuaraz.com.pe/index.php/politica/"
+  ],
+  "LA LUPA": [
+    "https://lalupa.pe/ica/",
+    "https://lalupa.pe/peru/",
+    "https://lalupa.pe/politica/"
+  ]
+}
