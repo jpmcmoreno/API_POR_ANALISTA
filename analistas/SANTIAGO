@@ -1,0 +1,70 @@
+{
+  "FISCALIA": [
+    "https://fiscaliadechile.cl/actualidad/noticias"
+  ],
+  "PODER JUDICIAL": [
+    "https://www.pjud.cl/prensa-y-comunicaciones/noticias",
+    "https://www.jornada.com.mx/categoria/politica",
+    "https://www.jornada.com.mx/categoria/estados",
+    "https://www.jornada.com.mx/categoria/sociedad"
+  ],
+  "LA TRIBUNA": [
+    "https://www.latribuna.hn/seccion/nacionales/",
+    "https://www.latribuna.hn/seccion/sucesos/",
+    "https://www.latribuna.hn/seccion/internacionales/"
+  ],
+  "PRIMERA HORA": [
+    "https://www.primerahora.com/noticias/gobierno-politica/",
+    "https://www.primerahora.com/noticias/policia-tribunales/",
+    "https://www.primerahora.com/noticias/isla/"
+  ],
+  "CACTUS 24": [
+    "https://cactus24.com.ve/category/sucesos/",
+    "https://cactus24.com.ve/category/nacionales/",
+    "https://cactus24.com.ve/category/internacionales/"
+  ],
+  "NOTITARDE": [
+    "https://www.notitarde.com.ve/sucesos/",
+    "https://www.notitarde.com.ve/politica/",
+    "https://www.notitarde.com.ve/internacionales/"
+  ],
+  "LA REPUBLICA": [
+    "https://www.larepublica.co/",
+    "https://www.asuntoslegales.com.co/"
+  ],
+  "SIN FRONTERAS": [
+    "https://diariosinfronteras.com.pe/category/arequipa/",
+    "https://diariosinfronteras.com.pe/category/puno/",
+    "https://diariosinfronteras.com.pe/category/tacna/",
+    "https://diariosinfronteras.com.pe/category/moquegua/",
+    "https://diariosinfronteras.com.pe/category/judiciales/",
+    "https://diariosinfronteras.com.pe/category/policiales/",
+    "https://diariosinfronteras.com.pe/category/nacionales/",
+    "https://diariosinfronteras.com.pe/category/internacionales/"
+  ],
+  "LA HORA": [
+    "https://www.lahora.com.ec/"
+  ],
+  "CHRON": [
+    "https://www.chron.com/news/"
+  ],
+  "SUPERINTENDENCIA DE SERVICIOS PÚBLICOS": [
+    "https://www.superservicios.gov.co/Sala-de-prensa",
+    "https://www.supertransporte.gov.co/index.php/sala-de-prensa"
+  ],
+  "DIARIO NUEVO MUNDO": [
+    "https://diarionuevomundo.cl/categoria/nacional/",
+    "https://diarionuevomundo.cl/categoria/politica/",
+    "https://diarionuevomundo.cl/categoria/internacional/"
+  ],
+  "CRITERIO": [
+    "https://criterio.hn/category/actualidad/"
+  ],
+  "DIARIO 07DIAS": [
+    "https://7dias.pe/seccion/politica/",
+    "https://7dias.pe/seccion/locales/",
+    "https://7dias.pe/seccion/policial/",
+    "https://7dias.pe/seccion/regional/",
+    "https://7dias.pe/seccion/internacional/"
+  ]
+}
