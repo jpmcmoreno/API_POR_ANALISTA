@@ -1,0 +1,123 @@
+{
+
+           "Semana": [
+            "https://www.semana.com/nacion/",
+            "https://www.semana.com/politica/",
+            "https://www.semana.com/economia/",
+	    "https://www.semana.com/nacion/bogota/",
+            "https://www.semana.com/nacion/medellin/",
+            "https://www.semana.com/nacion/cali/",
+            "https://www.semana.com/nacion/barranquilla/",
+            "https://www.semana.com/nacion/cucuta/,"
+            "https://www.semana.com/nacion/pereira/",
+            "https://www.semana.com/nacion/bucaramanga/",
+            "https://www.semana.com/nacion/cartagena/"
+        ],
+ 
+          "Confilegal": [
+            "https://confilegal.com/mundo-judicial/",
+            "https://confilegal.com/tribunales/",
+            "https://confilegal.com/politica/"
+        ],
+       
+        "Que pasa Venezuela": [
+            "https://quepasaenvenezuela.org/category/sucesos/",
+            "https://quepasaenvenezuela.org/category/nacionales/",
+            "https://quepasaenvenezuela.org/category/politica/",
+            "https://quepasaenvenezuela.org/category/internacionales/"
+        ],
+       
+        "Andina_Peru": [
+            "https://andina.pe/agencia/loultimo",
+            "https://andina.pe/agencia/seccion-politica-17.aspx",
+            "https://andina.pe/agencia/seccion-locales-3.aspx",
+            "https://andina.pe/agencia/seccion-regionales-4.aspx"
+        ],
+       
+       
+        "El Periodico": [
+            "https://www.elperiodico.com/es/ultimas-noticias/",
+            "https://www.elperiodico.com/es/internacional/",
+            "https://www.elperiodico.com/es/economia/",
+            "https://www.elperiodico.com/es/politica/"
+        ],
+       
+        "Diario del cusco": [
+            "https://diariodelcusco.pe/category/actualidad/",
+            "https://diariodelcusco.pe/category/regionales/",
+            "https://diariodelcusco.pe/category/tendencias/peru/"
+        ],
+       
+        "Diario El Pueblo": [
+            "https://diarioelpueblo.com.pe/category/noticias/local/",
+            "https://diarioelpueblo.com.pe/category/noticias/regional/",
+            "https://diarioelpueblo.com.pe/category/noticias/nacional/",
+            "https://diarioelpueblo.com.pe/category/actualidad/"
+        ],
+       
+        "Antilavado de dinero": [
+            "https://antilavadodedinero.net/news/",
+            "https://antilavadodedinero.net/casos/"
+        ],
+       
+        "TV Peru": [
+            "https://www.tvperu.gob.pe/noticias/ultimas-noticias",
+            "https://www.tvperu.gob.pe/noticias/seccion/politica",
+            "https://www.tvperu.gob.pe/noticias/seccion/locales",
+            "https://www.tvperu.gob.pe/noticias/seccion/nacionales"
+        ],
+       
+        "Trome": [
+            "https://trome.com/ultimas-noticias/",
+            "https://trome.com/actualidad/"
+        ],
+       
+        "Radio Madre de Dios": [
+            "https://noticias.madrededios.com/blog/section/local/",
+            "https://noticias.madrededios.com/blog/section/nacional-internacional/"
+        ],
+       
+        "Radio Nacional": [
+            "https://www.radionacional.gob.pe/noticias/ultimas-noticias"
+        ],
+       
+        "Reina de la selva": [
+            "https://reinadelaselva.pe/noticias/"
+        ],
+       
+        "Frontera digital": [
+            "https://fronteradigital.com.ve/categoria/Sucesos"
+        ],
+       
+        "La verdad de vargas": [
+            "https://laverdaddevargas.com/category/sucesos/"
+        ],
+       
+        "NTN 24": [
+            "https://www.ntn24.com/noticias-judicial"
+        ],
+       
+        "EL Periodico v": [
+            "https://elperiodicodemonagas.com.ve/sucesos/"
+        ],
+       
+        "KOB 4": [
+            "https://www.kob.com/new-mexico-news/"
+        ],
+       
+        "Mundo": [
+            "https://ansabrasil.com.br/brasil/noticias/ultimo_momento/index.shtml"
+        ],
+       
+        "Cronica viva": [
+            "https://www.cronicaviva.com.pe/categoria/regional/"
+        ],
+       
+        "HUANCA YORK": [
+            "https://hytimes.pe/policiales/"
+        ],
+       
+        "La Rotativa": [
+            "https://larotativa.pe/ultimas-noticias/"]
+
+}
