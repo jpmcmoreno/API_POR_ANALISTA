@@ -117,5 +117,26 @@
     "https://laprimera.pe/seccion/regionales/",
     "https://laprimera.pe/seccion/semanario/informe-especial/",
     "https://laprimera.pe/seccion/economia/"
+  ],
+    "TELEMUNDO_ARIZONA": [
+    "https://www.telemundoarizona.com/",
+	"https://www.telemundoarizona.com/noticias/local/"
+  ],
+  "URDU_NEWS":[
+	"https://www.urdunews.com/"
+  ],
+  "TELEMETRO":[
+	"http://www.telemetro.com/",
+	"https://www.telemetro.com/nacionales",
+	"https://www.telemetro.com/internacionales",
+	"https://www.telemetro.com/politica"
+  ],
+  "LA ESTRELLA":[
+	"https://www.laestrella.com.pa/",
+	"https://www.laestrella.com.pa/mundo",
+	"https://www.laestrella.com.pa/panama/nacional",
+	"https://www.laestrella.com.pa/panama/politica",
+	"https://www.laestrella.com.pa/sociales"
   ]
+
 }
